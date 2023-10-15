@@ -57,5 +57,6 @@ outliers = data[abs(z_scores) > 3]
 outliers
 
 print("Im vidushi")
+print("vidushi is stupid")
 
 
